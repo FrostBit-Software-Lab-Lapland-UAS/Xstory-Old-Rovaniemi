@@ -35,9 +35,45 @@ Pluginit
 </br>
 
 Levelien rakenne
-- Rakennukset on sijoitettu OldRovaniemi -levelille. Niitä voi muokata koskematta Core-leveliin
+- Rakennukset on sijoitettu LS_OldRovaniemi -levelille. Niitä voi muokata koskematta LS_Core-leveliin
 - Editorissa suorittaminen kannattaa tehdä Core-levelistä
 </br>
 
 Suositukset laitteistolle
-- Kehittäessä on käytetty laitteita, joissa on vähintään 32GB RAM ja Nvidia 3080. Emme takaa projektin sujuvaa toimintaa tämän alittavalla laitteistolla.
+- Kehittäessä on käytetty laitteita, joissa on vähintään 32GB RAM ja Nvidia 3080 -näytönohjain. Emme takaa projektin sujuvaa toimintaa tämän alittavalla laitteistolla.
+</br>
+</br>
+</br>
+
+
+-------------------- IN ENGLISH --------------------
+
+Xstory project
+- The software in this repository was developed during Xstory project
+- Project budget was 592 108 €. Project was co-funded by
+European Regional Development Fund / Regional Council of Lapland. Share of EU funding was 473 682€.
+Project duration 01.07.2023 - 30.12.2025
+- https://innovationlapland.com/xstory-hanke/
+- https://www.frostbit.fi/portfolio-fi/xstory/
+</br>
+
+About this repository
+- The repository contains a 3D visualization of Rovaniemi town center as it was in the early 1930's
+- The visualization in based on archival sources but is not perfectly accurate due to gaps in source materials and project resources
+</br>
+
+Unreal Engine version
+- Project uses Unreal Engine 5.5
+</br>
+
+Plugins
+- On first startup, if Unreal Engine prompts enabling plugins, enable all recommended
+</br>
+
+Level structure
+- Buildings are placed in LS_OldRovaniemi level. They can be edited without editing LS_Core level
+- Running in editor is recommended through LS_Core level
+</br>
+
+System recommendations
+- During development we used devices with a minimum of 3GB of RAM and Nvidia 380 GPU. We don't guarantee smooth operation with a device that doesn't reach these specifications.
